@@ -1,5 +1,5 @@
 {
- "versionCode": "1.1.1.1",
-  "url":   "https://download938.mediafire.com/ims6fdqdkgag/v3do79jx8kmxcsv/SECURE+LITE+VPN+V1.apk",
-   "Message": "-•NEW UPDATE AVAILABLE•!!!\n\n🆕WHAT'S NEW???\n\nSECURE LITE VPN V1\n\n1️⃣FIXED ALL BUGS☑️\n\nBY: CJTECH CHANNEL.💚"
+ "versionCode": "1.1.1.2",
+  "url":   "https://download1319.mediafire.com/64tfhgzrptrg/5zq720vj0o8d1t8/app.apk",
+   "Message": "-•NEW UPDATE AVAILABLE•!!!\n\n🆕WHAT'S NEW???\n\nSECURE LITE VPN V2\n\n1️⃣FIXED ALL BUGS☑️\n\nBY: CJTECH CHANNEL.💚"
    }\n\n
